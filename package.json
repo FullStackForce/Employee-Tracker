@@ -1,0 +1,20 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Employee Tracker App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullStackForce/Employee-Tracker.git"
+  },
+  "author": "Manuel Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FullStackForce/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/FullStackForce/Employee-Tracker#readme"
+}
