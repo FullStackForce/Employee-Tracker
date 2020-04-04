@@ -5,7 +5,7 @@ const connection = createConnection({
     port: 3306,
     host: "localhost",
     user: "root",
-    password: "root",
+    password: "general2008",
     database: "employees"
 })
 
